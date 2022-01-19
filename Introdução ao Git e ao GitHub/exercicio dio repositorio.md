@@ -31,11 +31,11 @@ vER ARQUIVO CORRIGINDO O ERRO DE GIT PUSH
 git remote set-url origin https://[cole-o-token-aqui]@github.com/[url-do-repositorio]
 
 Ex:
-https://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@github.com/Geisalves54/dio-desafio-github-primeiro-repositorio.git
-(https://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@github.com/Geisalves54/dio-desafio-github-primeiro-repositorio.git)
+https://xxxxxxxxxx(token)xxxxxxxxx@github.com/Geisalves54/dio-desafio-github-primeiro-repositorio.git
+(https://xxxxxxxxxx(token)xxxxxxxxx@github.com/Geisalves54/dio-desafio-github-primeiro-repositorio.git)
 
 
- 
+
 ------
 
 Rideto@kazoo7 MINGW32 /c/DIO
@@ -95,12 +95,12 @@ remote: Please see https://github.blog/2020-12-15-token-authentication-requireme
 fatal: Authentication failed for 'https://github.com/Geisalves54/dio-desafio-github-primeiro-repositorio.git/'
 
 Rideto@kazoo7 MINGW32 /c/DIO/dio-desafio-github-primeiro-repositorio (main)
-$ git remote set-url origin https://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@github.com/Geisalves54/dio-desafio-github-primeiro-repositorio.git
+$ git remote set-url origin https://xxxxxxxxxxxxxx@github.com/Geisalves54/dio-desafio-github-primeiro-repositorio.git
 
 Rideto@kazoo7 MINGW32 /c/DIO/dio-desafio-github-primeiro-repositorio (main)
 $ git remote -v
-origin  https://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@github.com/Geisalves54/dio-desafio-github-primeiro-repositorio.git (fetch)
-origin  https://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@github.com/Geisalves54/dio-desafio-github-primeiro-repositorio.git (push)
+origin  https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@github.com/Geisalves54/dio-desafio-github-primeiro-repositorio.git (fetch)
+origin  https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx@github.com/Geisalves54/dio-desafio-github-primeiro-repositorio.git (push)
 
 Rideto@kazoo7 MINGW32 /c/DIO/dio-desafio-github-primeiro-repositorio (main)
 $ git push origin main
